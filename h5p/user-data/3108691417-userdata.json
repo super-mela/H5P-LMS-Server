@@ -1,0 +1,11 @@
+[
+    {
+        "contentId": "3108691417",
+        "dataType": "state",
+        "invalidate": true,
+        "preload": true,
+        "subContentId": "0",
+        "userState": "{\"progress\":474.42671708964536,\"maxTimeReached\":2857.2082909446867,\"answers\":[{},null,{\"progress\":0,\"answers\":[]}],\"interactionsProgress\":[null,null,null]}",
+        "userId": "student1"
+    }
+]
